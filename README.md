@@ -6,7 +6,6 @@ It was created because of my noisy Dell server.
 Use this on your own risk! Always keep an eye on the temperatures of the cores!
 
 ## Requirements  
-```bash
 sudo apt-get update  
 sudo apt-gets install ipmitool lm-sensors  
 sudo sensors-detect  
