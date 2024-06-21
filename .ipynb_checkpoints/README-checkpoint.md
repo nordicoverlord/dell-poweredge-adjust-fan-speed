@@ -1,8 +1,8 @@
 
 ---
-title: "The easy Nginx setup"
-#url: /content/myguides/the-easy-nginx-setup
-date: 2024-04-30
+title: "Dell Adjust Fan Speed"
+#url: /content/myguides/dell-adjust-fan-speed
+date: 2024-06-21
 draft: false
 toc: true
 ---
