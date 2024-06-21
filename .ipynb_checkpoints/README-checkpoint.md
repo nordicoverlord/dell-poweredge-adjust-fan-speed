@@ -1,6 +1,16 @@
+
+---
+title: "The easy Nginx setup"
+#url: /content/myguides/the-easy-nginx-setup
+date: 2024-04-30
+draft: false
+toc: true
+---
+
 ```markdown
 # dell-poweredge-adjust-fan-speed
-A repository to manually adjust fan speed on a Dell PowerEdge T410 Xeon server. It can of course also bee used on other systems.
+A repository to manually adjust fan speed on a Dell PowerEdge T410 Xeon server. 
+It can of course also be used on other systems.  
 It was created because of my noisy Dell server.
 
 Use this on your own risk! Always keep an eye on the temperatures of the cores!
